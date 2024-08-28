@@ -1,4 +1,4 @@
-/* b) Write a query to retrieve a list of courses in which a specific student is enrolled. 
+-- b) Write a query to retrieve a list of courses in which a specific student is enrolled. 
 SELECT 
     s.STU_NAME,
     c.COURSE_NAME
